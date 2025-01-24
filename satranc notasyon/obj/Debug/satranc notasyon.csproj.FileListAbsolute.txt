@@ -1,0 +1,21 @@
+C:\Users\ykpkr\source\repos\satranc notasyon\satranc notasyon\bin\Debug\satranc notasyon.exe.config
+C:\Users\ykpkr\source\repos\satranc notasyon\satranc notasyon\bin\Debug\satranc notasyon.exe
+C:\Users\ykpkr\source\repos\satranc notasyon\satranc notasyon\bin\Debug\satranc notasyon.pdb
+C:\Users\ykpkr\source\repos\satranc notasyon\satranc notasyon\obj\Debug\satranc notasyon.csproj.AssemblyReference.cache
+C:\Users\ykpkr\source\repos\satranc notasyon\satranc notasyon\obj\Debug\satranc notasyon.csproj.CoreCompileInputs.cache
+C:\Users\ykpkr\source\repos\satranc notasyon\satranc notasyon\obj\Debug\satranc notasyon.exe
+C:\Users\ykpkr\source\repos\satranc notasyon\satranc notasyon\obj\Debug\satranc notasyon.pdb
+C:\Users\EKREM\source\repos\satranc notasyon\satranc notasyon\bin\Debug\satranc notasyon.exe.config
+C:\Users\EKREM\source\repos\satranc notasyon\satranc notasyon\bin\Debug\satranc notasyon.exe
+C:\Users\EKREM\source\repos\satranc notasyon\satranc notasyon\bin\Debug\satranc notasyon.pdb
+C:\Users\EKREM\source\repos\satranc notasyon\satranc notasyon\obj\Debug\satranc notasyon.csproj.AssemblyReference.cache
+C:\Users\EKREM\source\repos\satranc notasyon\satranc notasyon\obj\Debug\satranc notasyon.csproj.CoreCompileInputs.cache
+C:\Users\EKREM\source\repos\satranc notasyon\satranc notasyon\obj\Debug\satranc notasyon.exe
+C:\Users\EKREM\source\repos\satranc notasyon\satranc notasyon\obj\Debug\satranc notasyon.pdb
+E:\NKÜ\eski repos\satranc notasyon\satranc notasyon\bin\Debug\satranc notasyon.exe.config
+E:\NKÜ\eski repos\satranc notasyon\satranc notasyon\bin\Debug\satranc notasyon.exe
+E:\NKÜ\eski repos\satranc notasyon\satranc notasyon\bin\Debug\satranc notasyon.pdb
+E:\NKÜ\eski repos\satranc notasyon\satranc notasyon\obj\Debug\satranc notasyon.csproj.AssemblyReference.cache
+E:\NKÜ\eski repos\satranc notasyon\satranc notasyon\obj\Debug\satranc notasyon.csproj.CoreCompileInputs.cache
+E:\NKÜ\eski repos\satranc notasyon\satranc notasyon\obj\Debug\satranc notasyon.exe
+E:\NKÜ\eski repos\satranc notasyon\satranc notasyon\obj\Debug\satranc notasyon.pdb
